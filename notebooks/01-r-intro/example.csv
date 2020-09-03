@@ -1,0 +1,11 @@
+Package;Class;LOC;CodeQuality;NoBugs
+pl.put.qmese;Handler;23;medium;3
+pl.put.qmese;Exception;10;medium;2
+pl.put.qmese;Plugin;124;high;5
+pl.put.qmese.internal;Input;224;low;8
+pl.put.qmese;Info;111;high;5
+pl.put.qmese;Log;23;medium;3
+pl.put.qmese.internal;Error;10;low;1
+pl.put.qmese.data;Experiment;125;high;5
+pl.put.qmese.data;CaseStudy;150;low;6
+pl.put.qmese.data;Survey;111;high;5
