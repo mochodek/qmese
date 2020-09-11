@@ -1,0 +1,1 @@
+docker run -it -p 8889:8888 -v "$PWD"/notebooks:/root/notebooks --name qmese mochodek/qmese

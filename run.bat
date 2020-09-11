@@ -1,0 +1,1 @@
+docker run -it --rm -p 8889:8888 -v %cd%/notebooks:/root/notebooks mochodek/qmese
